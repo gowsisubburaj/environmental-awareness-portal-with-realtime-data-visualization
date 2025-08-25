@@ -1,0 +1,5 @@
+{
+  "name": "Environmental Awareness Portal",
+  "description": "A web application that provides real-time environmental data visualization for various cities, including AQI, temperature, and CO2 levels, along with historical trends and educational content.",
+  "requestFramePermissions": []
+}
